@@ -1194,9 +1194,9 @@ istanbul-reports@^1.4.0:
   dependencies:
     handlebars "^4.0.3"
 
-java@^0.9.0:
-  version "0.9.1"
-  resolved "https://registry.yarnpkg.com/java/-/java-0.9.1.tgz#3325d5e604f684c2d8405ef7b5468a52c77fc082"
+java@0.10.0:
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/java/-/java-0.10.0.tgz#99a12d6b2219d3732e4eacf2324c067e4284caa6"
   dependencies:
     async "2.6.0"
     find-java-home "0.2.0"
